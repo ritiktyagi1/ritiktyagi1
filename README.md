@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritik Tyagi</h1>
-<h3 align="center">Japanese bilingual who can do code🌟.</h3>
+<h3 align="center">Engineer by role, bilingual by choice — building backend systems that speak both Java and 日本語.</h3>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -7,8 +7,6 @@
 🌱 I’m currently working as a Senior Software Engineer.
 
 📫 How to reach me **ritiktyagi@gmail.com**
-
-⚡ Fun fact :- I know Japanese and like to do gym
 
 <br>
 
